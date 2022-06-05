@@ -191,7 +191,7 @@
 	<File name="Modules/BuildSiteTools.lua" part="program" sha1="f94dc8bbf783a4753633c5396f73332e324b8269" />
 	<File name="Modules/CalcActiveSkill.lua" part="program" sha1="e67b6c2e116382fba53d338e1ba7d40f1a92491f" />
 	<File name="Modules/CalcBreakdown.lua" part="program" sha1="ea4034f22c8379b9b9e14f437dacf11ebad9aa21" />
-	<File name="Modules/CalcDefence.lua" part="program" sha1="7e10538e780db679114213a252419f6d75750dbc" />
+	<File name="Modules/CalcDefence.lua" part="program" sha1="c8b1f426ef5cc4246b92b2caac4e27324ba49098" />
 	<File name="Modules/CalcOffence.lua" part="program" sha1="341e95470ee3bc4832295482a13d08ef7219ec22" />
 	<File name="Modules/CalcPerform.lua" part="program" sha1="9a0fe68fa9430d62ff278946aea73a4ef382524a" />
 	<File name="Modules/Calcs.lua" part="program" sha1="9cba82b0d41cfe6a2b2f5c152ba533a5293bc8df" />
